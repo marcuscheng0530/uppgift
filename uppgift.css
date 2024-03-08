@@ -1,0 +1,62 @@
+div{
+border: 2px solid red;
+margin: 20px;
+}
+
+img{
+width: 150px;
+height: 200px;
+margin: 10px;
+}
+
+#h11:hover{
+color:white;
+background-color: red;
+}
+
+#p1:hover{
+color: white;
+background-color: red;
+text-transform: ;
+}
+
+#p2:hover{
+color: white;
+background-color: red;
+text-transform: ;
+}
+
+#p3:hover{
+color: white;
+background-color: red;
+text-transform: ;
+}
+        
+#img1 {
+    opacity: 0.2;
+}
+
+#img2 {
+    opacity: 0.2;
+}
+
+#img3 {
+    opacity: 0.2;
+}
+
+
+#img1:hover {
+    opacity: 1.0;
+}
+#img2:hover {
+    opacity: 1.0;
+}
+#img3:hover {
+    opacity: 1.0;
+}
+
+#button :hover {
+    text-transform: uppercase;
+    background-color: blue;
+
+}
